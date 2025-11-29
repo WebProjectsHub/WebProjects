@@ -16,6 +16,7 @@ var urls3 =
 	"./poems/Calypso.html",
 	"./poems/Courage.html",
 	"./poems/Courage_JS.html",
+	"./poems/Death Alone.html",
 	"./poems/Deep-sea Soundings.html",
 	"./poems/Denouement Villanelle.html",
 	"./poems/Desiderata.html",

@@ -14,6 +14,7 @@ var urls2 = [
 	"./featured/Calypso.html",
 	"./featured/Courage.html",
 	"./featured/Courage_JS.html",
+	"./featured/Death Alone.html",
 	"./featured/Deep-sea Soundings.html",
 	"./featured/Denouement Villanelle.html",
 	"./featured/Desiderata.html",
