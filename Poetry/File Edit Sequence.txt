@@ -1,0 +1,49 @@
+Poetry.
+
+Sequence
+1. Copy the text of the poem and paste on a blank .txt file
+- In ChatGPT use the prompt:
+	"Enclose each line in div: [ insert poem] "
+- Paste the result in a notepad.
+- Find and replace <div> with <div>+[tab]
+- Find and replace </div> with [tab]+</div>
+- Add <br> after each group
+- Copy and paste on the new file.
+
+2. Folder->poems
+- Copy template and rename
+- Find and replace xxxxx for the poem title
+- Find and replace yyyyy for the author
+
+3. Folder->Featured
+- Copy template and rename
+- Find and replace xxxxx for the poem title
+- Find and replace yyyyy for the author
+
+4. Go back to notepad
+- copy and replace <div> with blank
+- copy and replace </div> with <br>
+- Copy and paste on the featured file
+
+5. Folder->About->byPoem.html
+- Update based on alphabetical listing by poem
+- Copy one row and replace poem title and author
+- Add 	id="new" on the poem row
+
+6. Folder->About->byAuthor.html
+- Update based on alphabetical listing by author
+- Copy one row and replace poem title and author
+- Add 	id="new" on the accordion row
+
+7. Folder->"Main"->surpriseMeHome.js
+- add the entry for the new poem
+	"./poems/xxxxx.html",
+
+8. Folder->"Main"->featuredPoem.js
+- add the entry for the new poem
+	"./featured/xxxxx.html",
+
+8. Folder->"Main"->search.html
+- add the entry for the new poem
+
+

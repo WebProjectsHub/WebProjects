@@ -78,6 +78,7 @@ var urls2 = [
 	"./featured/The Summer Girl.html",
 	"./featured/The True Meaning Of Life.html",
 	"./featured/The Visitor.html",
+	"./featured/The World We Make.html",
 	"./featured/Time Does Not Bring Relief; You All Have Lied.html",
 	"./featured/To A Little Girl.html",
 	"./featured/To My Daughter, With Love.html",
